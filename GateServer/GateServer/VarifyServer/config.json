@@ -1,0 +1,12 @@
+{
+  "email" : {
+    "user": "liuli_heaven@163.com",
+    "pass": "KXUikJtpSzew2r5s"
+  },
+
+  "redis" : {
+    "host": "127.0.0.1",
+    "port": 6380,
+    "password": "518518"
+  }
+}
